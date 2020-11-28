@@ -1,0 +1,3 @@
+This script takes real value of stock from the Yahoo Finance website and gives you whether it is above or below some set point. 
+I have few shares added for example but you can append more stocks to see their real time values. 
+At the end, there will be a sound output so that you get alrert if your desired stock value is high or low
